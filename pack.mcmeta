@@ -1,7 +1,6 @@
 {
   "pack": {
-    "pack_format": 71,
-    "description": "Use Shears to Defuse TNT!",
-    "supported_formats": [48-81]
+    "pack_format": 26,
+    "description": "Use Shears to Defuse TNT!"
   }
 }
